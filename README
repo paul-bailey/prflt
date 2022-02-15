@@ -6,6 +6,8 @@ expression and print its binary value in hexadecimal form.
 *Note:* This assumes a little-endian computer.
 If your computer is not little-endian,
 upgrade to the 21st century already.
+I wrote this for my own convenience,
+so it isn't meant to pretty, bulletproof, or portable.
 
 :Author: Paul Bailey
 :Date: 15 February 2022
