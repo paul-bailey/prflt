@@ -3,5 +3,9 @@
 Simple rogram to read a single/double-precision floating point
 expression and print its binary value in hexadecimal form.
 
+*Note:* This assumes a little-endian computer.
+If your computer is not little-endian,
+upgrade to the 21st century already.
+
 :Author: Paul Bailey
 :Date: 15 February 2022
